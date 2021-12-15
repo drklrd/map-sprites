@@ -125,6 +125,13 @@
     "x": 255,
     "y": 329
   },
+  "arrow_backup": {
+    "height": 7,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 275,
+    "y": 329
+  },
   "art_gallery_11": {
     "height": 17,
     "pixelRatio": 1,
